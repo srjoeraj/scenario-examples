@@ -1,2 +1,2 @@
 
-Create a namespace called `treauser:`
+Create a namespace called `treaty`
